@@ -30,17 +30,24 @@ To get started with the Flutter Chat App, follow these steps:
 
 ## Clone this repository to your local machine.
 
+```
 git clone https://github.com/your-username/flutter-chat-app.git
+```
 
 ## Navigate to the project directory.
-
+```
 cd flutter-chat-app
+```
 ## Install the necessary dependencies using Flutter's package manager, pub.
 
+```
 flutter pub get
+```
 ## Run the app on a connected device or emulator.
 
+```
 flutter run
+```
 
 # Contributing
 Contributions to the Flutter Chat App are welcome and encouraged! If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request. We appreciate your help in making this app better.
